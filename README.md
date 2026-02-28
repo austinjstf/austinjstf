@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Austin Steffes
+Hello! My name is Austin Steffes [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
 I’m Austin Steffes, a Computer Science student at the University of Wisconsin–Milwaukee and a Software Development Intern at Society Insurance. I have hands-on experience with Java, C#, React, SQL Server, Azure, REST APIs, and Guidewire, building full-stack applications and API integrations that support insurance technology. I enjoy creating scalable solutions, learning new technologies, and growing as a developer while working toward my bachelor’s degree.
